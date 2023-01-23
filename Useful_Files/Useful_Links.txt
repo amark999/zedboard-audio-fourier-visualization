@@ -1,0 +1,5 @@
+
+COMMUNICATION PROTOCOLS
+SPI:	https://www.circuitbasics.com/basics-of-the-spi-communication-protocol
+I2C:	https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/#:~:text=I2C%20is%20a%20serial%20communication,the%20master%20and%20the%20slave.
+
